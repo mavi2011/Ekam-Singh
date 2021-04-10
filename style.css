@@ -1,0 +1,22 @@
+
+body {
+    text-align: center;
+    background-color: #f0a400;
+    font-size:18px;
+
+}
+h6{
+font-size:18;
+}
+
+input{
+background: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ul{
+position: sticky;
+}
